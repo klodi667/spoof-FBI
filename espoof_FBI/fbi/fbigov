@@ -1,0 +1,791 @@
+ 
+■ (we also can do more than bs hacking just hmu to know what else)
+■ 
+■ We are also teaming with DarkSec ;)
+■ 
+■ we back btw we been gone for like 2 months but we still here lmao
+■ ╔───────────────────────────────────────────────────────────────────────────────────╗
+■ @ Want a fake passport? we can do them for £1000 GBP.                               @
+■ @ Want a fake USA Citizenship? we can do them for £1000 USD.                        @
+■ @ Want to join us? message SLXMED.                                                  @
+■ @ Joining Bishop's Mafia means anything we do you have no responsibility for.       @
+■ @ If you dont like us, message me, i love to hear your cringe opinions.             @
+■ ╚───────────────────────────────────────────────────────────────────────────────────╝
+■ 
+■ ╔───────────────────────────────────────────────────────────────────────────────────╗
+■ @       Nameless/Bishop's Mafia Discord: https://discord.gg/WmgCqmu                 @
+■ @         Nameless/Bishop's Mafia Owner: SLXMED                                     @
+■ @ Nameless Owner/Bishop's Mafia Discord: SLXMED#8378                                @
+■ @ Nameless/Bishop's Mafia Owner YouTube: SLXMED                                     @
+■ ╚───────────────────────────────────────────────────────────────────────────────────╝
+■ 
+■                  Message The Bishop's Mafia Owner For Questions.
+■ 
+■ ╔──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+■ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+■ ╚──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+■ ♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DNS Query of fbi.gov:-
+
+
+
+
+Type	 Host	          IPv4	              TTL
+
+A	 fbi.gov	  104.16.148.244      119
+A	 fbi.gov	  104.16.149.244      119
+
+
+
+
+Type	Host	  IPv6	                  TTL
+
+AAAA	fbi.gov	  2606:4700::6810:95f4	  59
+AAAA	fbi.gov	  2606:4700::6810:94f4	  59
+
+
+
+
+Type	Host	  Target	        Priority	TTL
+
+MX	fbi.gov	  mx-east.fbi.gov	10	        119
+
+
+
+
+
+
+Type	Host	  TXT	                                                                                        TTL
+
+TXT	fbi.gov	  amazonses: iUbfpGEqhMPlcmJ0aykJZREltK6pWio9wOgRngnJOQE=	                                1304
+TXT	fbi.gov	  adobe-idp-site-verification=101945e35b37c6efd526cf706f04bc9545a02f9cdc58dbf718678c506697d67d	1304
+TXT	fbi.gov	  google-site-verification=6UEk-jfg1xPNjz_rQGcRFJOBGxMy1aARDZUTXgSNAqw	                        1304
+TXT	fbi.gov	  google-site-verification=L8cauHJF4MANoTCkMbrLkAVfHBta28ctva9n1IDekTo	                        1304
+TXT	fbi.gov	  ublrZj1CzpSEiwtiRFKDAyiek8hRqkqaTTApxvhwai14i8JqVBOauW4cA06i39H5Lhl3HnALCM/xfTxIPEXEpA==	1304
+TXT	fbi.gov	  _globalsign-domain-verification=xZMJnzdDAgURaBjUZ6qbqWaaYmV5W3sfo3TF8mUxne	                1304
+TXT	fbi.gov	  fastly-domain-delegation-weownfbi.gov-273985-2020-08-06	                                1304
+TXT	fbi.gov	  625558384-8740534	                                                                        1304
+TXT	fbi.gov	  v=spf1 +mx ip4:153.31.0.0/16 -all	                                                        1304
+TXT	fbi.gov	  MS=ms39271050	1304
+
+
+
+Type	Host	        Target	                         TTL
+
+NS	fbi.gov  	ns-cloud-e3.googledomains.com	 599
+NS	fbi.gov	        ns-cloud-e1.googledomains.com	 599
+NS	fbi.gov     	ns-cloud-e2.googledomains.com	 599
+NS	fbi.gov	        ns-cloud-e4.googledomains.com	 599
+
+
+
+Type	Host	Mname	Rname	Serial	Refresh	Retry	Expire	TTL
+
+SOA	fbi.gov	ns-cloud-e1.googledomains.com	support.wildcardcorp.com	1415240977	600	1800	1209600	1800
+
+___________________________________________________________________________________________________________________________________________
+
+
+    A_RECORD
+
+
+    Server: 8.8.8.8
+    Address: 8.8.8.8#53 (node - 53)
+
+ 
+    Canonical name = www.fbi.gov.c.footprint.net.
+    Name:www.fbi.gov.c.footprint.net
+    Address: 209.84.4.105
+
+
+
+
+_____________________________
+
+    MX_record
+
+
+    Server: 4.2.2.5
+    Address: 4.2.2.5#53
+
+ 
+    Authoritative answers can be found from:
+    c.footprint.net
+    origin = admin.nsatc.org
+    serial = 1319057938
+    refresh = 10800
+    retry = 2700
+    expire = 3600000
+    minimum = 900
+
+
+
+
+
+_____________________________
+
+
+NS_RECORD
+
+
+    a.gov-servers.net -> ns1.fbi.gov
+    Server:4.2.2.5 Address:4.2.2.5#53
+    canonical name=www.fbi.gov.c.footprint.net.
+    mailbox host =dl-cdn_infrastructure.level3.com serial = 1319057938(Serial Key Registered to Allen Fuller)
+
+
+
+
+
+_______________________________________________________________________________________
+
+Last System Update - Mon, 16 Apr 2012 11:05:15 UTC (from - 4.69.153.191)
+
+_______________________________________________________________________________________
+
+
+    Login Panel - ae-91-91.csw4.SanJose1.Level3.net (4.69.153.14)
+    Intercom Manager Login Cookie - user1_1:1NDVHdDfNxvaswzOjQWNLkMRfVrGiJw:xvQHg3EoEowRkxOv
+
+
+
+_______________________________________________________________________________________
+
+
+
+    Vulnerable Open Ports in FBI InterCommunication Intranet -
+
+ 
+    4.69.153.18 responding on port 118 (sqlserv)
+    4.69.153.18 responding on port 3209 (asipx-webadmin) - Plaintext Passwords
+    4.69.153.18 responding on port 4415 (mxxrlogin)
+    4.69.153.18 responding on port 5613 (directplay6) - Remote Vulnerability
+    4.69.153.18 responding on port 7429 (openmail-mod)
+    4.69.153.18 responding on port 7440 (mppolicy-mgr) - Denial of Service
+    4.69.153.18 responding on port 7495 (x11-ssh-offset)
+
+
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+
+    bill.nicholson@fbi.gov - billnoyr@!@
+    paul.thomasson@langley.af.mil - 987we.paul
+    jerome.traughber@us.af.mil - Xktanh%67
+    ben.torreon@osd.mil - neb9182rrot
+    charlesjohnston@fbi.gov - 1971.charles02
+    cyberinvestigation@fbi.gov - X&t%$ffalk1@#
+    fbiwashingtondc@fbi.gov - 7284%Hags&4827
+    washington@fbi.gov - $hThasYTfgvas&and$
+    washington.field@ic.fbi.gov - MThadtgo5a91$a&%
+    Baltimore@ic.fbi.gov - kasd1#a871&1a
+    Chicago@ic.fbi.gov - 12h%asj19$kanht%
+    Richmond@ic.fbi.gov - wpfHt18G5@&@d
+    foiparequest@ic.fbi.gov - skfh27&da1$dawgk
+    portland@ic.fbi.gov - portland9764&124$
+    SaltLakeCity@ic.fbi.gov - hko28g7c%ja&q$jf@
+    Seattle.fbi@ic.fbi.gov - fhGiASy1%ka&12
+    Boston@ic.fbi.gov - %adwjH619&12a
+    cv@ic.fbi.gov - Oahvu&hf651$
+    kansas.city@ic.fbi.gov - jhdjAf918&23$
+    Memphis@ic.fbi.gov - kk22hero&1209
+    fbi.dallas@ic.fbi.gov - hiqy&1%1lsf
+    Indianapolis@ic.fbi.gov - opajeufg17afsd
+    tampa.division@ic.fbi.gov - jakvn12u2184
+    Miami@ic.fbi.gov - Xvkal12&%#
+    minneapolis@ic.fbi.gov - ajkdo213##
+    san.francisco@ic.fbi.gov - aj187v@1ld%
+    SanFrancisco@ic.fbi.gov - frnssan&usa1001
+    Houston.Texas@ic.fbi.gov - tx129287347
+    Texas@ic.fbi.gov - Skauyr19%12
+    cleveland.cv@ic.fbi.gov - kKs12k826&12
+    Charlotte.public@ic.fbi.gov - hwifhj182kfq
+    newhaven@ic.fbi.gov - i43w07Qg4238
+    ctmortgagefraud@ic.fbi.gov - 4Mb3Fl7f68WV
+    toctsecuritiesfraud@ic.fbi.gov - kz6H4T93D48Y
+    joseph.mcqueen@ic.fbi.gov - passwords123
+    SanAntonio@ic.fbi.gov - iHBP71x40IXK
+    Little.Rock@ic.fbi.gov - Ww35K5u45kOq
+    springfield@ic.fbi.gov - Bl5402e52CPs
+    Norfolk_FO@ic.fbi.gov - T7IccXtY767V
+    Colonial_Parkway_Murders@ic.fbi.gov - U5tcdkVcGkpd
+    michael.brooks@ic.fbi.gov - michpassbrooks121
+    buffalo@ic.fbi.gov - zJs31n2Q541z
+    Omaha@ic.fbi.gov - p016kjVUi2yf
+    Braden@ic.fbi.gov - 3wF713cz5w6j58
+    Carbonara@ic.fbi.gov - V0dC33AN2P
+    delivery@ic.fbi.gov - rC;65|=kK5
+    knoxville@ic.fbi.gov - J2Vd6x5bNb
+    Neworleans@ic.fbi.gov - VjBn2dz7my
+    Timothy.Lauster@ic.fbi.gov - rs6S33c4Y9
+    stlouis@ic.fbi.gov - EIx889SaSN
+    applicants.stlouis@ic.fbi.gov - RF55135ye3
+    darrell.foxworth@ic.fbi.gov - qwert123password
+    outreach.albany@ic.fbi.gov - fJdhw812994rajsJSDMA
+    LifeAssociatesInvestigations@ic.fbi.gov - FonajTb%2i9
+    phoenix@ic.fbi.gov - ahGEfncja9128
+    dsac@ic.fbi.gov - jdfjHAkjdwIHabvqyH1==
+    fbi.atlanta@ic.fbi.gov - Iiahsdfg&129dhoaj2
+    birmingham@ic.fbi.gov - aIhdHIAjdqqonv9128
+    mitredelivery@ic.fbi.gov - 918aguJhwhHsqo%
+    paul.bresson@ic.fbi.gov - kavanaski129948
+    FBINNCP@ic.fbi.gov - polaowKJaoqjA$$
+    fbinncp@ic.fbi.gov - amicI71gGjaksd8Hwh
+    theresa.powell@ic.fbi.gov - kiajsicnUYUGbub2
+    walestips@ic.fbi.gov - kiHbbfuU82j
+    laura.eimiller@ic.fbi.gov - passwored12
+    Lourdes.arocho@ic.fbi.gov - password$qwerty
+    William.So@ic.fbi.gov - cutelilyian191
+    Nevine.Aziz@ic.fbi.gov - aziz.nev14
+    Joline.Caron@ic.fbi.gov - qwertylol@me
+    Sobonya@ic.fbi.gov - fullternHows
+    Unger@ic.fbi.gov - 12nipster21
+    mueller.cv@ic.fbi.gov - letmein16011990
+    John.whalen@ic.fbi.gov - lovenancy18
+    Yolanda.Loya@ic.fbi.gov - becool$motorcor
+    daniel.clegg@ic.fbi.gov - clegg.passwd
+    James.turgal@ic.fbi.gov - barcelona2012
+    tammy.peter@ic.fbi.gov - 0128787284882
+    cheryll.leppert@ic.fbi.gov - clfbiintercomnode2
+    tammy.mchugh@ic.fbi.gov - passwords123456
+    easthaventips@ic.fbi.gov - foobartipsicfbi
+    cchauvin@nas.edu - fruitcolours7
+    Kenneth.Chrosniak@us.army.mil - armament187489912
+    Rich.Ernst@osd.mil - ernst.richard
+    sidney.macarthur@navy.mil - password123
+    thane.clare@verizon.net - 12345678987654321
+    egyptiandefence@verizon.net - 0199826742
+    dkrieger@nmic.navy.mil - armyman.light7
+    jrcb52g@hotmail.com - jhon&richard
+    delse@crs.loc.gov - Hian12wfniHgu1927
+    matthew.klunder@navy.mil - matt123456
+    daniel.driscoll@navy.mil - dan7%alsij281
+    celkins@vertizontalinc.com - celkins.vertizon
+    joseph.herold@us.af.mil - 128482joshqwerty
+    joseph.s.dufresne@uscg.mil - qwerty9876
+    aelkins@vertizontalinc.com - mitmeanfollower
+    mark.l.gorenflo@navy.mil - marklen129ingrad
+    gavin.edward@bdsus.mod.uk - eduardopassword123
+    daniel.eleuterio@navy.mil - sallymylove1981
+    abby.gillett.ctr@pentagon.af.mil - ajcjIH7gqrkPASk012
+    marcus.thomas@ic.fbi.gov - 9816tom.mick
+    IC_Complaints@ic.fbi.gov - JulianICcomplaints
+    Philadelphia.complaints@ic.fbi.gov - phil.fbi.terminal
+    Richard.VorderBruegge@ic.fbi.gov - ilovemydaughternancy
+    ronald.menold@ic.fbi.gov - password111111
+    Villafranca@ic.fbi.gov - thisisme.villa
+    angi.christensen@ic.fbi.gov - aweofjalsiowug
+    Reid@ic.fbi.gov - KIiwbLajbd186$8a
+    Lampo@ic.fbi.gov - aoJoqhFD717%12
+    brian.herrick@ic.fbi.gov - bebrian.nerd
+    fauerso@ic.fbi.gov - frank.houser
+    jkgrant@ic.fbi.gov - grant.commision
+    jason.pack@ic.fbi.gov - pass911pass911
+    joseph.schadler@ic.fbi.gov - josheph8Fhqjda
+    patti.hansen@ic.fbi.gov - jao20Hkskanf
+    christopher.acton@ic.fbi.gov - oainB872bkasjd
+    Rebecca.Wu@ic.fbi.gov - mnBUq71jdjkas
+    Patricia.Villafranca@ic.fbi.gov - nhiabusd91i98bd
+    larry.karl@ic.fbi.gov - uUbdkASU&JU1jd
+    john.caruthers@ic.fbi.gov - n=naomykjasUghkdskansas
+    Aranda@ic.fbi.gov - JarandaiUgda
+    Jennifer.Joiner@ic.fbi.gov - so92hjuBUskawsc
+    kevin.cornelius@ic.fbi.gov - jhIOBUswdiB%
+    michael.tyler@ic.fbi.gov - incioq*(hoasd==
+    Diego@ic.fbi.gov - opjwpoejt9U)(hfodkl
+    nova.corruption@ic.fbi.gov - ja(hjasjnnuzu=
+    gerald.rogeroiii@ic.fbi.gov - HhjsklnbHvgykaskB
+    joseph.fenning@ic.fbi.gov - pass1234567890
+    chris.woiwode@ic.fbi.gov - knJIuusdkaksl
+    thomas.weldon@ic.fbi.gov - qwertylolqwerty
+    Riley@ic.fbi.gov - riley.mcalister
+    mike.freeman@ic.fbi.gov - IH9oqkjb&freeman
+    patricia.bunting@ic.fbi.gov - pJ)H()qwbjklcas%kjasj
+    patrick.findlay@ic.fbi.gov - ONnnsyYnskNM
+    Robert.Casey@ic.fbi.gov - Jop2jjn$kjasbj$
+    Jesse.Rollwagen@ic.fbi.gov - $$$$$$$$$$$$$
+    npo@ic.fbi.gov - aOPIho200a8skjd
+    grizell.johnson@ic.fbi.gov - looskwoooish
+    rochester.bf@ic.fbi.gov - whooosha010
+    elmira.bf@ic.fbi.gov - olNOIwbujdbBU71127
+    jamestown.bf@ic.fbi.gov - knzxcoqwibobiCIOAS
+    mansfield.cv@ic.fbi.gov - HuwhcxUAgdi18
+    elyria.cv@ic.fbi.gov - JioqhdhiuHAihsi
+    akron.cv@ic.fbi.gov - akron.cv
+    mark.levett@ic.fbi.gov - marklevett
+    j.klaver@ic.fbi.gov - klaver.j7726
+    betsy.bartko@ic.fbi.gov - betsy.skya01290
+    kirk.oberlander@ic.fbi.gov - 109297091729
+    douglas.klein2@ic.fbi.gov - aihUHuqhuh^51652
+    james.burrell@ic.fbi.gov - lalsd.jamesihi12
+    w.herrington@ic.fbi.gov - 012909891229usd
+    robert.schuett@ic.fbi.gov - robertkajsoi12982
+    FBILabTraining@ic.fbi.gov - training.comission
+    lisa.grossweiler@ic.fbi.gov - lisa.grossman
+    romel.velasco@ic.fbi.gov - Adsgfege212Dwfswr
+    Kathryn.sipes@ic.fbi.gov - sdfAdwbfVLjr45
+    kelli.glasgow@ic.fbi.gov - KgcbgiuGBcbiuGTCh
+    jeffrey.mckinney@ic.fbi.gov - kin82896yugcqkj
+    amy.dasaro@ic.fbi.gov - kiniGq7geduac
+    michael.leverock@ic.fbi.gov - iohjwhia812
+    brian.chrostowski@ic.fbi.gov - n8Y2hkljzh88
+    Tamara.Meheux@ic.fbi.gov - i*(whdkjlasjd901
+    chrostowski@ic.fbi.gov - o9jaqh8hjGuws
+    david.beyer@ic.fbi.gov - mo9U92hjka6h
+    marybeth.king@ic.fbi.gov - NUi2gaksjdn
+    g.jones@ic.fbi.gov - ioN2hhjkjba
+    reed@ic.fbi.gov - opmabsyd761
+    SIOC@ic.fbi.gov - i(jhslb^HJ
+    robert.mueller@ic.fbi.gov - kHibbk2b
+    APPcampaign@ic.fbi.gov - ojpb1g72ygj
+    Shernita.morris@ic.fbi.gov - noiq2n4ksd1pasword
+    youngstown.cv@ic.fbi.gov - password404
+    Sims@ic.fbi.gov - 12080898hskl
+    James.Wynne@ic.fbi.gov - 08847891829
+    Vukin@ic.fbi.gov - jhOIobwup1uas
+    charlotte.public@ic.fbi.gov - ionOih892hakjs
+    Egan@ic.fbi.gov - uiwkjao29gUKd
+    gary.loeffert@ic.fbi.gov - klju189Gbvksasd=
+    vicki.anderson@ic.fbi.gov - GUDFx67jsklds
+    Onorato@ic.fbi.gov - I*Yx82ikjJTq
+    john.cotter@ic.fbi.gov - lKUGx9o1mnlsho
+    Fall2010_LanguageSpecialist@ic.fbi.gov - oiHHBNihbkajs
+    paul.daymond@ic.fbi.gov - 09172jksdf9812
+    www.fbi.dallas@ic.fbi.gov - PIOHolobhlf
+    gary.bumgardner@ic.fbi.gov - ponny.and.go
+    Daniel.Roberts@ic.fbi.gov - oiu2o9*&tgjks
+    VA@ic.fbi.gov - oIHwujrbisdu2u
+    Cook@ic.fbi.gov - kJipownkkjOIy1qh
+    Kim@ic.fbi.gov - iupj[ofoh9812h
+    john.ed@ic.fbi.gov - lIHqwiuobf92
+    athena.lien@ic.fbi.gov - P(0uphk2ebkl
+    public.affairs@ic.fbi.gov - LON0912hoskjdn
+    paul.vitchock@ic.fbi.gov - OIUhalsdkjh2IO
+    charles.ro@ic.fbi.gov - HuihhYU20
+    Shepherd@ic.fbi.gov - 082jkaskj
+    Erin.Sheridan@ic.fbi.gov - gat8aGHub
+    gregory.baker2@ic.fbi.gov - BybwnGtf29
+    findwhitey@ic.fbi gov - Buwkajsy
+    Tumbleson@ic.fbi.gov - passowrds1234567
+    david.ego@ic.fbi.gov - 987712iugack
+    kimberly.delgreco@ic.fbi.gov - 187289784
+    Katherine.Chen@ic.fbi.gov - nOHoiwbfkajs871
+    Shelley.Kato@ic.fbi.gov - uiT2iykjsdkl
+    Sueyoshi@ic.fbi.gov - HiuHD8jbgdij1966
+    Wilkerson@ic.fbi.gov - haUgeyREfai816
+    Margo.Walker@ic.fbi.gov - JuegGF7718ghd
+    Thea.Hammack@ic.fbi.gov - GulfWaripsug
+    NPO@ic.fbi.gov - npo@fbi.gov
+    sharon.mendez@ic.fbi.gov - qwerty98765
+    ali@ic.fbi.gov - noentryplease1897182
+    vieyra@ic.fbi.gov - 01728978975656127
+    rachel.vega@ic.fbi.gov - KJhiufbiuIbdka
+    joshua.adames@ic.fbi.gov - jbiIUGkjd71
+    jeffrey.cugno@ic.fbi.gov - IUOhbdkwut2189
+    Linguist_Postings@ic.fbi.gov - 79adgs819gVGja
+    patricia.kelleher@ic.fbi.gov - KGUiug2896kbJSgkk
+    susan.myers@ic.fbi.gov - &1hkjhkck*677652
+    agnes.bell@ic.fbi.gov - *)(*^!@tyukjas
+    Bjornstad@ic.fbi.gov - )(klhkdgkajst2
+    Jeanne.White@ic.fbi.gov - J^18gcvuq929G
+    px_cashback@ic.fbi.gov - iubjkbd1982uk
+    Krall@ic.fbi.gov - 6+Hiu489GYUe
+    jose.orench@ic.fbi.gov - iT*&2gdkjask
+    chicago@ic.fbi.gov - &U*&QT@FGCXTAS
+    dean.fetterolf@ic.fbi.gov - ijkasjdb28
+    bill.hooton@ic.fbi.gov - p455w0rd18ohjaksd
+    mrichard@ic.fbi.gov - Loihmsbdiu&
+    REPORTBRIBES@ic.fbi.gov - oiasdhky28shd
+    james.stewart@ic.fbi.gov - LIyhwITi7v[12g
+    Thomas.Krall@ic.fbi.gov - JHfwjfaowkeuyfas
+    william.r.krueger@ic.fbi.gov - (21vxtgSH10h
+    suzanne.acar@ic.fbi.gov - Bui0918hd99
+    Laflin@ic.fbi.gov - 91827821772
+    Libby.Stern@ic.fbi.gov - Iidhqwo9187y6uias
+    san.diego@ic.fbi.gov - LKskdl2i^1as
+    Schlag@ic.fbi.gov - uy2lasojd2kd
+    david.cudmore@ic.fbi.gov - KIUkbq2wo
+    Stephen.Meagher@ic.fbi.gov - Hpwcgu1889h
+    SCAM@ic.fbi.gov - juyt8&81igasd
+    newark.media@ic.fbi.gov - Jgj2e909sduo1
+    julia.eichhorst@ic.fbi.gov - Ggoqo2ydggajs
+    john.iannuzzi@ic.fbi.gov - oYa=hsguu2f
+    Bogdan@ic.fbi.gov - 19127gasdg8991872
+    Mary.Dolan@ic.fbi.gov - Iugiu2ebkahdgw2is
+    crystal.komara@ic.fbi.gov - bhiuoGFhj(612gj
+    margaret.einspahr@ic.fbi.gov - HkjpLqyvs
+    heather.stewart@ic.fbi.gov - KhyFhgodohGYs
+    sandra.breault@ic.fbi.gov - &100288719%6172
+    agent.applicant@ic.fbi.gov - KGHhh&5182g9
+    reportbribes@ic.fbi.gov - iukastjak81872
+    diego@ic.fbi.gov - 98178416253
+    Montgomery@ic.fbi.gov - JygqocjuUql
+    william.mcneill@ic.fbi.gov - OInwiiubqiwsjd
+    linguist_postings@ic.fbi.gov - KhKFdkk2h1872
+    carolyn.woodbury@ic.fbi.gov - Igwkkao2gtj
+    lisa.jackson@ic.fbi.gov - ncuwn271gtvdj
+    rhonda.williams@ic.fbi.gov - JFadah2jbdkii
+    antoine@ic.fbi.gov - passwords121212121
+    Rogers@ic.fbi.gov - KgwkdkuT&1auikb
+    lisa.moore@ic.fbi.gov - moore.lisa
+    thomas.gancarz@ic.fbi.gov - thomas.gancario
+    mark.mahon@ic.fbi.gov - jh2i(921bhuid
+    deborah.broderick@ic.fbi.gov - Iuk2g787athsd2
+    melissa.mcrae@ic.fbi.gov - JUY2hja9shdn
+    Johnson@ic.fbi.gov - HJuaih^&*jsdk
+    Raul.roldan@ic.fbi.gov - Buyr8^%^2jkas
+    Tini.Leon@ic.fbi.gov - Hy72g&&92nj
+    sharon.gray@ic.fbi.gov - B72829hgvjs
+    Megan.mikes@ic.fbi.gov - H2981726ya
+    jacksonville@ic.fbi.gov - 97tggsh821
+    baltimore@ic.fbi.gov - 218902hdui1877
+    Dallas.Public@ic.fbi.gov - I9818hdi81y
+    dallas@ic.fbi.gov - vtT^17ghkK91y62fA
+    David.Sobonya@ic.fbi.gov - Boiqmjhiasi1g
+    ny1@ic.fbi.gov - IH892hyiguisu
+    DSAC@ic.fbi.gov - BI88912hhduii18
+    Beth.McConn@ic.fbi.gov - N8ig1gvud8u127
+    loeffert@ic.fbi.gov - N89290hysdi
+    McConn@ic.fbi.gov - B001hidas
+    gary.loelTert@ic.fbi.gov - garyloel19287
+    Alicia.Sensibaugh@ic.fbi.gov - sensimarklover
+    PRUrecruits@ic.fbi.gov - recruits.membership
+    douglas.hares@ic.fbi.gov - hares$mich
+    B.Bland@ic.fbi.gov - boblogover017876
+    Oscar.Hernandez@ic.fbi.gov - H92hdkH910hd
+    seattle.division@ic.fbi.gov - Jnxiqoha=s
+    stevendean@ic.fbi.gov - dean.donald
+    Gretchen.Schlag@ic.fbi.gov - foxboi2u17
+    ctsecuritiesfraud@ic.fbi.gov - fraudadmin
+    cyberwatch@ic.fbi.gov - Op9haius8
+    brett.johnson@ic.fbi.gov - BIu29uhausy982
+    r.mark.wood@ic.fbi.gov - mark.r.wood@
+    remingtoncomplaints@ic.fbi.gov - complaintboxno1299
+    almeta.austin@ic.fbi.gov - ausitn.almeta
+    steven.martinez@ic.fbi.gov - 8877steveymillard
+
+________________________________________________________________________________________
+
+_________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+LOCATIONS OF REGISTRATION
+BRISTOW, VA; WILMINGTON, DE; NEWARK, DE; KIRKLAND, WA.
+
+
+LOCATIONS OF REGISTRATION
+BRISTOW, VA; WILMINGTON, DE; NEWARK, DE; KIRKLAND, WA;
+
+
+FVX RESEARCH:
+N984JS http://www.flightradar24.com/data/airplanes/n984js/
+N964JR http://www.flightradar24.com/data/airplanes/n964jr/
+N319KS http://www.flightradar24.com/data/airplanes/n319ks/
+N806TH http://www.flightradar24.com/data/airplanes/n806th/
+N687RT http://www.flightradar24.com/data/airplanes/n687rt/
+
+
+KQM AVIATION:
+N562CB http://www.flightradar24.com/data/airplanes/n562cb/
+N612BK http://www.flightradar24.com/data/airplanes/n612bk/
+N813JH http://www.flightradar24.com/data/airplanes/n813jh/
+N411CP http://www.flightradar24.com/data/airplanes/n411cp/
+N302MP http://www.flightradar24.com/data/airplanes/n302mp/
+N223EM http://www.flightradar24.com/data/airplanes/n223em/
+
+
+LCB LEASING:
+N274BB http://www.flightradar24.com/data/airplanes/n274bb/
+N361DB http://www.flightradar24.com/data/airplanes/n361db/
+N576DS http://www.flightradar24.com/data/airplanes/n576ds/
+
+
+NBR AVIATION:
+N986DK http://www.flightradar24.com/data/airplanes/n986dk/
+N514NY http://www.flightradar24.com/data/airplanes/n514ny/
+N311SB http://www.flightradar24.com/data/airplanes/n311sb/
+
+
+NORTHEAST AIRCRAFT LEASING CORP:
+N212EB http://www.flightradar24.com/data/airplanes/n212eb/
+
+
+SOUTHEAST AIRCRAFT LEASING CORP:
+N58209 http://www.flightradar24.com/data/airplanes/n58209/
+N6362T http://www.flightradar24.com/data/airplanes/n6362t/
+
+
+NORTHWEST AIRCRAFT LEASING CO:
+N309JK http://www.flightradar24.com/data/airplanes/n309jk/
+N8208C http://www.flightradar24.com/data/airplanes/n8208c/
+N969JL http://www.flightradar24.com/data/airplanes/n969jl/
+N981GT http://www.flightradar24.com/data/airplanes/n981gt/
+
+
+NBY PRODUCTIONS:
+N981MR http://www.flightradar24.com/data/airplanes/n981mr/
+N910LF http://www.flightradar24.com/data/airplanes/n910lf/
+N428MT http://www.flightradar24.com/data/airplanes/n428mt/
+N143GM http://www.flightradar24.com/data/airplanes/n143gm/
+N731CL http://www.flightradar24.com/data/airplanes/n731cl/
+
+
+NG RESEARCH:
+N921LS http://www.flightradar24.com/data/airplanes/n921ls/
+N539MY http://www.flightradar24.com/data/airplanes/n539my/
+N527KM http://www.flightradar24.com/data/airplanes/n527km/
+N290RM http://www.flightradar24.com/data/airplanes/n290rm/
+N901RM http://www.flightradar24.com/data/airplanes/n901rm/
+
+
+OBR LEASING:
+N912EX http://www.flightradar24.com/data/airplanes/n912ex/
+N318SJ http://www.flightradar24.com/data/airplanes/n318sj/
+N404KR http://www.flightradar24.com/data/airplanes/n404kr/
+N142LJ http://www.flightradar24.com/data/airplanes/n142lj/
+N168GP http://www.flightradar24.com/data/airplanes/n168gp/
+N495BJ http://www.flightradar24.com/data/airplanes/n495bj/
+N610AG http://www.flightradar24.com/data/airplanes/n610ag/
+
+
+OTV LEASING:
+N986MT http://www.flightradar24.com/data/airplanes/n986mt/
+N629ET http://www.flightradar24.com/data/airplanes/n629et/
+N514KM http://www.flightradar24.com/data/airplanes/n514km/
+N811AH http://www.flightradar24.com/data/airplanes/n811ah/
+N102BR http://www.flightradar24.com/data/airplanes/n102br/
+N168DK http://www.flightradar24.com/data/airplanes/n168dk/
+ 
+
+PSL SURVEYS:
+N959JT http://www.flightradar24.com/data/airplanes/n959jt/
+N916WR http://www.flightradar24.com/data/airplanes/n916wr/
+N879WM http://www.flightradar24.com/data/airplanes/n879wm/
+N467TS http://www.flightradar24.com/data/airplanes/n467ts/
+N326PS http://www.flightradar24.com/data/airplanes/n326ps/
+ 
+
+PXW SERVICES:
+N182EM http://www.flightradar24.com/data/airplanes/n182em/
+N143GS http://www.flightradar24.com/data/airplanes/n143gs/
+N267RH http://www.flightradar24.com/data/airplanes/n267rh/
+N657TP http://www.flightradar24.com/data/airplanes/n657tp/
+N520EP http://www.flightradar24.com/data/airplanes/n520ep/
+ 
+
+RKT PRODUCTIONS:
+N913JC http://www.flightradar24.com/data/airplanes/n913jc/
+N906TM http://www.flightradar24.com/data/airplanes/n906tm/
+N461AJ http://www.flightradar24.com/data/airplanes/n461aj/
+N323LP http://www.flightradar24.com/data/airplanes/n323lp/
+ 
+
+NATIONAL AIRCRAFT LEASING CORP:
+N495WW http://www.flightradar24.com/data/airplanes/n495ww/
+N712MS http://www.flightradar24.com/data/airplanes/n712ms/	
+N859JA http://www.flightradar24.com/data/airplanes/n859ja/	
+N232DW http://www.flightradar24.com/data/airplanes/n232dw/	
+N248CF http://www.flightradar24.com/data/airplanes/n248cf/	
+N249DB http://www.flightradar24.com/data/airplanes/n249db/	
+N251SR http://www.flightradar24.com/data/airplanes/n251sr/	
+N288JY http://www.flightradar24.com/data/airplanes/n288jy/	
+N324EB http://www.flightradar24.com/data/airplanes/n324eb/	
+N324SJ http://www.flightradar24.com/data/airplanes/n324sj/
+N370JH http://www.flightradar24.com/data/airplanes/n370jh/	
+N385RB http://www.flightradar24.com/data/airplanes/n385rb/	
+N510KS http://www.flightradar24.com/data/airplanes/n510ks/	
+N536GR http://www.flightradar24.com/data/airplanes/n536gr/	
+N557PG http://www.flightradar24.com/data/airplanes/n557pg/	
+N608SH http://www.flightradar24.com/data/airplanes/n608sh/	
+N622FH http://www.flightradar24.com/data/airplanes/n622fh/	
+N632MR http://www.flightradar24.com/data/airplanes/n632mr/	
+N632TK http://www.flightradar24.com/data/airplanes/n632tk/	
+N64057 http://www.flightradar24.com/data/airplanes/n64057/	
+N8210G http://www.flightradar24.com/data/airplanes/n8210g/	
+N831EM http://www.flightradar24.com/data/airplanes/n831em/	
+N907WK http://www.flightradar24.com/data/airplanes/n907wk/
+N922MK http://www.flightradar24.com/data/airplanes/n922mk/	
+N949RL http://www.flightradar24.com/data/airplanes/n949rl/	
+N956D http://www.flightradar24.com/data/airplanes/n956d/	
+N962JB http://www.flightradar24.com/data/airplanes/n962jb/	
+N962PB http://www.flightradar24.com/data/airplanes/n962pb/	
+N972SM http://www.flightradar24.com/data/airplanes/n972sm/	
+N986W http://www.flightradar24.com/data/airplanes/n986w/
+N496WW http://www.flightradar24.com/data/airplanes/n496ww/	
+N728MP http://www.flightradar24.com/data/airplanes/n728mp/	
+ 
+
+WORLDWIDE AIRCRAFT LEASING CORP:
+N245RB http://www.flightradar24.com/data/airplanes/n245rb/
+N208EB http://www.flightradar24.com/data/airplanes/n208eb/
+N236KS http://www.flightradar24.com/data/airplanes/n236ks/
+N239LF http://www.flightradar24.com/data/airplanes/n239lf/
+N301A http://www.flightradar24.com/data/airplanes/n301a/
+N8211P http://www.flightradar24.com/data/airplanes/n8211p/
+N969PL http://www.flightradar24.com/data/airplanes/n969pl/
+N971N http://www.flightradar24.com/data/airplanes/n971n/
+
+
+
+________________________________________________________________________________________
+
+_________________________________________________________________________________________
+
+____________________________________________________________________________________________
+
+SLG:- 153.31.113.27#465 -+- :72.21.81.85:
+
+
+Domain Name Servers:
+ 
+ns1.fbi.gov
+ns2.fbi.gov
+
+
+
+Open Ports for attacks:
+ 
+4.69.153.18 responding port 118
+4.69.153.18 responding port 3209
+4.69.153.18 responding port 4415
+4.69.153.18 responding port 5613
+4.69.153.18 responding port 7429
+4.69.153.18 responding port 7440
+4.69.153.18 responding port 7495
+
+
+
+Emails and passwords of agents:
+- Collection. Alot work. Not all ours ;-]
+charlesjohnston@fbi.gov - 1971.charles06
+joseph.mcqueen@ic.fbi.gov - passwords123
+Nevine.Aziz@ic.fbi.gov - aziz.nev14
+Joline.Caron@ic.fbi.gov - qwertylol@me
+Sobonya@ic.fbi.gov - fullternHows
+Unger@ic.fbi.gov - 12nipster21
+mueller.cv@ic.fbi.gov - letmein16011990
+John.whalen@ic.fbi.gov - lovenancy18
+Yolanda.Loya@ic.fbi.gov - becool$motorcor
+daniel.clegg@ic.fbi.gov - clegg.passwd
+James.turgal@ic.fbi.gov - barcelona2012
+tammy.peter@ic.fbi.gov - 0128787284882
+cheryll.leppert@ic.fbi.gov - clfbiintercomnode2
+Richard.VorderBruegge@ic.fbi.gov - ilovemydaughternancy
+jeffrey.mckinney@ic.fbi.gov - kin82896yugcqkj
+amy.dasaro@ic.fbi.gov - kiniGq7geduac
+michael.leverock@ic.fbi.gov - iohjwhia812
+brian.chrostowski@ic.fbi.gov - n8Y2hkljzh88
+Tamara.Meheux@ic.fbi.gov - i*(whdkjlasjd901
+chrostowski@ic.fbi.gov - o9jaqh8hjGuws
+david.beyer@ic.fbi.gov - mo9U92hjka6h
+marybeth.king@ic.fbi.gov - NUi2gaksjdn
+g.jones@ic.fbi.gov - ioN2hhjkjba
+reed@ic.fbi.gov - opmabsyd761
+Sims@ic.fbi.gov - 12080898hskl
+James.Wynne@ic.fbi.gov - 08847891829
+Vukin@ic.fbi.gov - jhOIobwup1uas
+Egan@ic.fbi.gov - uiwkjao29gUKd
+gary.loeffert@ic.fbi.gov - klju189Gbvksasd=
+vicki.anderson@ic.fbi.gov - GUDFx67jsklds
+john.cotter@ic.fbi.gov - lKUGx9o1mnlsho
+paul.daymond@ic.fbi.gov - 09172jksdf9812
+gary.bumgardner@ic.fbi.gov - ponny.and.go
+Daniel.Roberts@ic.fbi.gov - oiu2o9*&tgjks
+Cook@ic.fbi.gov - kJipownkkjOIy1qh
+Jeanne.White@ic.fbi.gov - J^18gcvuq929G
+px_cashback@ic.fbi.gov - iubjkbd1982uk
+Krall@ic.fbi.gov - 6+Hiu489GYU
+Mary.Dolan@ic.fbi.gov - Iugiu2ebkahdgw2is
+crystal.komara@ic.fbi.gov - bhiuoGFhj(612gj
+margaret.einspahr@ic.fbi.gov - HkjpLqyvs
+heather.stewart@ic.fbi.gov - KhyFhgodohGYs
+sandra.breault@ic.fbi.gov - &100288719%6172
+william.mcneill@ic.fbi.gov - OInwiiubqiwsjd
+carolyn.woodbury@ic.fbi.gov - Igwkkao2gtj
+lisa.jackson@ic.fbi.gov - ncuwn271gtvdj
+rhonda.williams@ic.fbi.gov - JFadah2jbdkii
+antoine@ic.fbi.gov - passwords121212121
+Rogers@ic.fbi.gov - KgwkdkuT&1auikb
+lisa.moore@ic.fbi.gov - moore.lisa
+thomas.gancarz@ic.fbi.gov - thomas.gancario
+mark.mahon@ic.fbi.gov - jh2i(921bhuid
+deborah.broderick@ic.fbi.gov - Iuk2g787athsd2
+melissa.mcrae@ic.fbi.gov - JUY2hja9shdn
+Johnson@ic.fbi.gov - HJuaih^&*jsdk
+Raul.roldan@ic.fbi.gov - Buyr8^%^2jkas
+Tini.Leon@ic.fbi.gov - Hy72g&&92nj
+sharon.gray@ic.fbi.gov - B72829hgvjs
+Megan.mikes@ic.fbi.gov - H2981726ya
+Beth.McConn@ic.fbi.gov - N8ig1gvud8u127
+loeffert@ic.fbi.gov - N89290hysdi
+McConn@ic.fbi.gov - B001hidas
+gary.loelTert@ic.fbi.gov - garyloel19287
+Alicia.Sensibaugh@ic.fbi.gov - sensimarklover
+douglas.hares@ic.fbi.gov - hares$mich
+brett.johnson@ic.fbi.gov - BIu29uhausy982
+r.mark.wood@ic.fbi.gov - mark.r.wood@
+almeta.austin@ic.fbi.gov - ausitn.almeta
+steven.martinez@ic.fbi.gov - 8877steveymillard
+####################
+FBI Login Pages:
+ 
+https://fbiva.fbiacademy.edu/
+http://www.fbiaa.org/login.aspx
+ 
+####################
+FBI Director's Dox:
+ 
+Name: James Brien Comey Jr
+DOB: 12/14/1960
+POB: Yonkers, NY
+Height: 6' 8"
+Wife: Patrice L Comey
+DOM: 1987
+Address: 6 Westway Rd Westport, CT 06880-5637
+Latitude (Deg-Min-Sec): 41° 7' 56.1169"
+Longitude (Deg-Min-Sec): -73° 18' 7.5575"
+####################
+Education History:
+Northern Highlands Regional High School
+Address: 298 Hillside Ave, Allendale, NJ 07401
+Phone: (201)-327-8700
+Latitude (Deg-Min-Sec): 41° 2' 6.2952"
+Longitude (Deg-Min-Sec): -74° 8' 38.7996"
+College of William and Mary
+Address: 200 Stadium Dr, Williamsburg, VA 23185
+Phone:(757)-221-4000
+Latitude (Deg-Min-Sec): 37° 16' 21.738"
+Longitude (Deg-Min-Sec): -76° 42' 48.6612"
+University of Chicago Law School
+Juris Doctor
+Address: 1111 E 60th St, Chicago, Il 60637
+Phone: (773)-702-9494
+Latitude (Deg-Min-Sec): 41° 47' 9.2245"
+Longitude (Deg-Min-Sec): -87° 35' 56.17
+
+
+
+
+
